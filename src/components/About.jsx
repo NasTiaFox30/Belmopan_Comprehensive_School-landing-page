@@ -14,7 +14,11 @@ const About = () => {
             <p>Welcome to {schoolInfo.name}, {schoolInfo.about.welcomeText} </p>
           </div>
           <div className="about-image">
-            <img src={schoolInfo.mainImage} alt="College" />
+            {schoolInfo.mainVideo ? (
+              <iframe width="560" height="350" src={schoolInfo.mainVideo} title="Video" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            ) : (
+              <img src={schoolInfo.mainImage} alt="College" />
+            )}
           </div>
         </div>
         <div className="about-history">
