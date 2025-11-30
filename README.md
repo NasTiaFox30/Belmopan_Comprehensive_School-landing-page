@@ -1,8 +1,8 @@
-# Alvin L. Young Nazarene High School (landing page)
+# Belmopan Comprehensive School (landing page)
 React + Vite
 
 ## Hours
- hours.
+3 hours.
 
 ## Started - Ended
 29.11.2025 - 30.11.2025
