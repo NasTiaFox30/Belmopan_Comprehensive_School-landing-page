@@ -15,10 +15,18 @@ const Footer = () => {
               <h5>{schoolInfo.name}</h5>
               <p>{schoolInfo.about.footerText}</p>
               <div className="social-links">
-                <a href={schoolInfo.socials.facebook}><i><FaFacebook /></i></a>
-                <a href={schoolInfo.socials.instagram}><i><FaInstagram /></i></a>
-                {/* <a href={schoolInfo.socials.linkedin}><i><FaLinkedin /></i></a> */}
-                <a href={schoolInfo.socials.youtube}><i><FaYoutube /></i></a>
+                {schoolInfo.socials.facebook ? (
+                  <a href={schoolInfo.socials.facebook}><i><FaFacebook /></i></a>
+                ) : null}
+                {schoolInfo.socials.instagram ? (
+                  <a href={schoolInfo.socials.instagram}><i><FaInstagram /></i></a>
+                ) : null}
+                {schoolInfo.socials.linkedin ? (
+                  <a href={schoolInfo.socials.linkedin}><i><FaLinkedin /></i></a>
+                ) : null}
+                {schoolInfo.socials.youtube ? (
+                  <a href={schoolInfo.socials.youtube}><i><FaYoutube /></i></a>
+                ) : null}
               </div>
             </div>
 
