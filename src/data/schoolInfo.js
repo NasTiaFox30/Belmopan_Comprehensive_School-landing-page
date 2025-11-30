@@ -11,7 +11,8 @@ export const schoolInfo = {
     typeofSchool: "Hight School",
     logo: "logo.jpg",
     mainImage: mainPhoto, 
-    GoogleMapsEmbedLink: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1906.9467224716445!2d-89.123398!3d17.077864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5e42dd3a8f82e1%3A0x7eb790d59bf3848e!2sAlvin%20L%20Young%20Nazarene%20High%20School!5e0!3m2!1spl!2sus!4v1764334634056!5m2!1spl!2sus",
+    mainVideo: "https://www.youtube.com/embed/lNjUAPrIBlI?si=Tw7oG2doivrRpxRF",
+    GoogleMapsEmbedLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3810.4533617758702!2d-88.76907949999999!3d17.245287899999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5dd57532e4d525%3A0x2eb97a22756ffd58!2sBelmopan%20Comprehensive%20School!5e0!3m2!1suk!2spl!4v1764514238443!5m2!1suk!2spl",
     
     about: {
         welcomeText: "where we are committed to fostering academic excellence and character development in a nurturing environment.",
