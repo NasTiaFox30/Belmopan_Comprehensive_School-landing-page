@@ -1,6 +1,5 @@
 // IMPORT IMAGES
 import mainPhoto from "../assets/images/photos/example1.jpg";
-// import mainVideo from "";
 
 import slide1 from "../assets/images/slider1.jpg";
 import slide2 from "../assets/images/slider2.jpg";
