@@ -2,14 +2,14 @@
 React + Vite
 
 ## Hours
-8 hours.
+ hours.
 
 ## Started - Ended
-27.11.2025 - 29.11.2025
+29.11.2025 - 30.11.2025
 
 
 # Application:
-Landing page of college - template №3
+Landing page of college - template №4
 
 
 ## Libraries:
@@ -19,7 +19,7 @@ Landing page of college - template №3
 
 
 ## Visit site: 
-https://nastiafox30.github.io/Alvin_L_Young_Nazarene_High_School-landing-page/
+https://nastiafox30.github.io/Belmopan_Comprehensive_School-landing-page/
 
 ---------------------------------------------------------------
 _**Creator: Anastasiia Bzova 2025**_
